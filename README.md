@@ -7,8 +7,8 @@
 <br/>
 
 <div align="center">
-  🔨 Making **discord bots**
-  🔨 Making **nuke bots**
+  🔨 Making *discord bots*
+  🔨 Making *nuke bots*
 </div>
 
 <hr/>
