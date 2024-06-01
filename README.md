@@ -7,8 +7,7 @@
 <br/>
 
 <div align="center">
-  🔨 Making *discord bots*
-  🔨 Making *nuke bots*
+  🔨 Making discord bots & nuke bots
 </div>
 
 <hr/>
@@ -27,5 +26,5 @@
 <br>
 <div align="center">
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Leakerfield&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) />
+  <img src="https://github-readme-stats.vercel.app/api?username=Leakerfield&show_icons=true" />
 </div>
