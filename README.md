@@ -39,6 +39,11 @@
 <h3 align="center">🏆 Links 🏆</h3>
 <div align="center">
   ---
-  discord: [discord](https://discord.com/users/1143551190731333662)
-  ---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: bug
+assignees: TEST
+
+---
 </div>
