@@ -36,9 +36,7 @@
 
 <br/>
 
-<h3 align="center">🏆 Links 🏆</h3>
+<h3 align="center"></h3>
 <div align="center">
-  [discord](https://discord.com/users/1143551190731333662)
-  <br>
   <img width=390 aling="center" src="https://avatars.githubusercontent.com/u/154639521?s=400&u=dd7c1bba2875b584613c3ecf914d290715366092&v=4" />
 </div>
