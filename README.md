@@ -26,5 +26,5 @@
 <br>
 <div align="center">
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Leakerfield&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Leakerfield&show_icons=true" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Leakerfield&show_icons=true&border_radius=10" />
 </div>
