@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-  `🔨 Making discord bots & nuke bots`
+  🔨 Making discord bots & nuke bots
 </div>
 
 <hr/>
@@ -38,9 +38,7 @@
 
 <h3 align="center">🏆 Links 🏆</h3>
 <div align="center">
-  ----
-
-  [discord](https://discord.com/users/1143551190731333662)
-
-  ----
+  ---
+  discord: [discord](https://discord.com/users/1143551190731333662)
+  ---
 </div>
