@@ -17,4 +17,7 @@
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,python,javascript,typescript" />
+  <hr>
+  <h2 align="center">❗ Framerworks-Tools ❗</h2>
+  <img src="https://skillicons.dev/icons?i=nodejs,github,vscode,git> /><br>
 </div>
