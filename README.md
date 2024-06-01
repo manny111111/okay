@@ -13,11 +13,10 @@
 
 <hr/>
 
-<h2 align="center">⚒ Languages 🛠</h2>
+<h2 align="center">⚒ Languages-Frameworks-Tools 🛠</h2>
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,python,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=nodejs,vscode,git" /><br>
   <hr>
-  <h2 align="center">❗ Framerworks-Tools ❗</h2>
-  <img src="https://skillicons.dev/icons?i=nodejs,github,vscode,git> /><br>
 </div>
