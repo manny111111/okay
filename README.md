@@ -30,7 +30,7 @@
   <summary><h2>👔 Links</h2></summary>
   <h3>🏆 All My Links</h3>
   <p>
-  <a href="https://discord.gg/eUakvQNcbd">
+  <a href="https://discord.gg/impulsehost">
     <img src="https://img.shields.io/badge/AIO Tools-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://x.com/Fluxxeerr">
