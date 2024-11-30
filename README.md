@@ -31,7 +31,7 @@
   <h3>🏆 All My Links</h3>
   <p>
   <a href="https://discord.gg/impulsehost">
-    <img src="https://img.shields.io/badge/AIO Tools-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Impulse Hosting-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://x.com/Fluxxeerr">
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" />
